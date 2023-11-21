@@ -1,15 +1,14 @@
-### Bộ code base để bắt đầu học khóa MERN Stack Pro (HỌC PHẦN FRONT-END: REACTJS - MATERIAL UI - REDUX...vv) - Lập Trình qua dự án thực tế Trello Clone trên YouTube của mình nhé các bạn!
-### Base project for my MERN Stack Pro Course - Build Trello App on YouTube!
+### Bộ code base để bắt đầu Lập Trình qua dự án thực tế Trello Clone (đây là phần front-end)
 
-- Link Download Full Source Code hoàn chỉnh của bộ này:
+- Link Download Full Source Code hoàn chỉnh của bộ này: updating ...
 
-- Link YouTube Playlist: https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy
+- Link YouTube Playlist tham khảo: https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy
 
 ### Hướng dẫn clone Repo code này về máy các bạn chuẩn nhất ở đây nhé:
 
 - Link: https://youtu.be/lUfsTj45Uys
 
-### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
+### Requirements - Thông tin của bộ Code Base này - download Chuẩn các phiên bản dưới đây để bắt đầu: (Semantic Versioning)
 
 ```
 * nodejs = v18.16.0
