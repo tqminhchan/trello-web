@@ -1,4 +1,4 @@
-import Box from '@mui/system/Box'
+import Box from '@mui/material/Box'
 
 function BoardBar() {
   return (
